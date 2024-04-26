@@ -1,4 +1,4 @@
-# TicketBookingApp
+
 # GoLang Practice Repository
 Welcome to the GoLang Practice Repository! This repository has been created for educational purposes, aimed at providing a platform for beginners and enthusiasts to hone their coding skills in GoLang. Whether you're just starting your coding journey or looking to improve your GoLang proficiency, this repository offers a simple yet effective way to practice and learn.
 
